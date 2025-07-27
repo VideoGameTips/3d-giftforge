@@ -2,7 +2,7 @@
 
 Click below to download the flyer you can hand out at school:
 
-👉 [poster_printable.pdf](./3D_GiftForge_Project_Poster_BigText.pdf)
+👉 [poster_printable.pdf](./3D_GiftForge_Poster.pdf)
 
 You can also remix it or design your own!
 
