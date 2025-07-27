@@ -8,5 +8,3 @@ Explore the project:
 - [Rules](./rules/RULES.md)
 - [Gallery of Projects](./gallery/GALLERY.md)
 - [Printable Poster](./posters/POSTER.md)
-- [Sign Up](./sign-up/SIGNUP.md)
-- [Contact](./contact/CONTACT.md)
